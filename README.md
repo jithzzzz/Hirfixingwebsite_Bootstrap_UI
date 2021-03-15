@@ -1,6 +1,6 @@
 
 
-# Hirfixingwebsite_Bootstrap_UI
+# Hair fixing Hospital Website Bootstrap UI
 
 It is resposive website developed in following technologies
 HTML, CSS and Bootstrap 4
